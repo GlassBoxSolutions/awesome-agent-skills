@@ -40,11 +40,7 @@
 ## Recent Activity
 
 <!-- SQUEEGEE:AUTO:START recent-activity -->
-- `2026-02-01` Merge pull request #63 from VoltAgent/add-sanity-skills
-- `2026-02-01` add sanity skills
-- `2026-01-30` Merge pull request #58 from efremidze/main
-- `2026-01-29` Fix link formatting for swift-patterns-skill
-- `2026-01-29` Add Swift patterns skill to README
+- `2026-02-20` **chore:** add Squeegee-generated documentation
 <!-- SQUEEGEE:AUTO:END recent-activity -->
 
 ---

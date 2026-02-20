@@ -8,6 +8,11 @@ All notable changes to this project are documented here. Entries are auto-genera
 ---
 
 <!-- SQUEEGEE:AUTO:START changelog-entries -->
+### 2026-02-20
+
+**Maintenance:**
+- **docs:** add Squeegee-generated documentation (`7c53361`)
+
 ### 2026-02-01
 
 **Other:**
@@ -299,45 +304,6 @@ All notable changes to this project are documented here. Entries are auto-genera
 
 **Other:**
 - Update README.md (`56f6b0b`)
-
-### 2025-11-16
-
-**Other:**
-- Merge pull request #1 from VoltAgent/add-aws-skill (`68f028c`)
-
-**Maintenance:**
-- add new skills (`3166953`)
-
-### 2025-11-11
-
-**Other:**
-- Update README.md (`e7c5527`)
-
-### 2025-11-01
-
-**Other:**
-- Update README.md (`667a2e9`)
-
-### 2025-10-29
-
-**Other:**
-- Update README.md (`d6288a2`)
-
-### 2025-10-28
-
-**Other:**
-- Update README.md (`e320ed1`)
-- Update README.md (`6c7e012`)
-- Update README.md (`48e0270`)
-- Initial commit (`83169c0`)
-
-**Maintenance:**
-- update README (`53ed049`)
-- update README (`33f4a3a`)
-- update README (`6a583e6`)
-- update README (`11f0ff5`)
-- update README (`d30e62b`)
-- update README (`9c640e0`)
 <!-- SQUEEGEE:AUTO:END changelog-entries -->
 
 ---
